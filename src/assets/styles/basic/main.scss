@@ -8,6 +8,6 @@ body {
   height: 100%;
   min-height: 100%;
   font-family: var(--tui-text-font);
-  background-color: var(--tui-base-01);
-  color: var(--tui-text-01);
+  background-color: $bgc-main;
+  color: $text-second !important;
 }
